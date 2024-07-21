@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: rgb(220, 96, 51);
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body
+{
+    background-image: url("https://th.bing.com/th/id/OIP.Qr8IO58C7FGlxzxdStLyZgHaEo?w=287&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
